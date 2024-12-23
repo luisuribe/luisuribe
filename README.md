@@ -3,5 +3,8 @@
 <h3 align="center">a fan of technology (backend, infra and linux)</h3>
 <h5 align="center">acme at riseup dot net</h5>
 
+<p align="center">
+Also I'm moving everything to a <a href="https://github.com/4cm3">new github account</a></p>
+
 <p align="center"><a href="https://www.buymeacoffee.com/luisurib3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="luisurib3" /></a></p><br><br>
 
